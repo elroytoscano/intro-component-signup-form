@@ -1,0 +1,16 @@
+@use '../abstracts' as *;
+@use '../base' as *;
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: $hero-padding-sm;
+
+  @include breakpoint(xxl) {
+    flex-direction: row;
+    justify-content: space-between;
+    gap: rem(45);
+    padding: $hero-padding;
+  }
+}

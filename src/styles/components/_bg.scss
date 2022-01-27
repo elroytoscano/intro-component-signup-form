@@ -1,0 +1,21 @@
+@use '../abstracts' as *;
+@use '../base' as *;
+
+.bg {
+  min-height: 100vh;
+  background: url('../images/bg-intro-mobile.png');
+  background-color: $theme-bg;
+  background-position-x: center;
+  background-position-y: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  @include breakpoint(md) {
+    background: url('../images/bg-intro-desktop.png');
+    background-color: $theme-bg;
+    background-position-x: center;
+    background-position-y: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
