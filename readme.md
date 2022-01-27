@@ -44,8 +44,8 @@ Mobile design VS Mobile solution<br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://intro-form-component-with-signup.netlify.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-C8hWQrvja)
+- [Live Site URL](https://intro-form-component-with-signup.netlify.app/)
 
 ## My process
 
@@ -84,4 +84,5 @@ Using SOLID principles, provision has been made to provide additional validation
 ## Acknowledgments
 
 - [@frontendmentorio](https://github.com/ApplePieGiraffe) - Animations are inspired by the animations in ApplePieGiraffe's solution. The Animate.css library is a brilliant css animations library.
+- [@daniloparrajr](https://github.com/daniloparrajr) - Initially I was using my own project boilerplate to build the project, however since gulp doesn't support js module imports, had to switch to Danilo's project boilerplate for HTML-SCSS projects.
 - [@anoshaahmed](https://github.com/anoshaahmed) - The layout of this readme.md is borrowed from the readme of Anosha's Huddle Page solution.
