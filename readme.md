@@ -84,4 +84,4 @@ Using SOLID principles, provision has been made to provide additional validation
 ## Acknowledgments
 
 - [@frontendmentorio](https://github.com/ApplePieGiraffe) - Animations are inspired by the animations in ApplePieGiraffe's solution. The Animate.css library is a brilliant css animations library.
-- [@anoshaahmed](https://github.com/anoshaahmed) - The layout of this readme.md is borrowed from the readme of Anosha's previous solution.
+- [@anoshaahmed](https://github.com/anoshaahmed) - The layout of this readme.md is borrowed from the readme of Anosha's Huddle Page solution.
