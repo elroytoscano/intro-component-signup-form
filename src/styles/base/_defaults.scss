@@ -32,6 +32,10 @@ input:active {
   border: 1px solid white;
 }
 
+button:focus-visible {
+  outline: none;
+}
+
 a:focus {
   outline: none;
 }

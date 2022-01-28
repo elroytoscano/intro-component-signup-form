@@ -15,6 +15,7 @@ submitBtn.addEventListener('click', (e) => {
     lastNameValidation(lastName);
     emailValidation(email);
     passwordValidation(password);
+    alert('Congratulations! Your trial period has begun!');
   } catch (error) {
     showMessage(error.input, error.message);
   }
